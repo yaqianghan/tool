@@ -1,0 +1,10 @@
+{
+    "name": "hyq/tool",
+    "authors": [
+        {
+            "name": "hanyaqiang",
+            "email": "hanyaqiang@duole.com"
+        }
+    ],
+    "require": {}
+}
